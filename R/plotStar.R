@@ -18,7 +18,7 @@
 #' @export
 #' 
 plotStar <- function(r=1){
-    #YOU WISHHHHHHH!!
+    #YOU WISHHHHHHH!! not going to happen
     myAngles <- seq(from=0, to=2*pi,length.out=200)
     x <- cos(myAngles)
     y <- sin(myAngles)
